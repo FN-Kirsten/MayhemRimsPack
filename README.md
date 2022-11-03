@@ -18,4 +18,5 @@ and even more.
 This is a drag n' drop resource, just drag it into your server and you should be good.
 
 # Need Support?
-[![Need Support?](https://preview.redd.it/1qepg36lgyz41.png?auto=webp&s=f4b69da9c9517886c0024fe75465f8b16f1c5a25)](https://discord.gg/b9upz9NkwC)
+[![Discord](https://preview.redd.it/1qepg36lgyz41.png?auto=webp&s=f4b69da9c9517886c0024fe75465f8b16f1c5a25)](https://discord.gg/b9upz9NkwC)
+<img src="[http://....jpg](https://preview.redd.it/1qepg36lgyz41.png?auto=webp&s=f4b69da9c9517886c0024fe75465f8b16f1c5a25)" width="100" height="100" />
