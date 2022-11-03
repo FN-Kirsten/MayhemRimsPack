@@ -1,6 +1,6 @@
 # Mayhem's Rim Pack
 ![Number of Rims](https://img.shields.io/badge/Rim%20Count-510-critical?style=for-the-badge&logo=github) 
-![Issues](https://img.shields.io/github/issues/MayhemStudios/MayhemRinsPack?style=for-the-badge&logo=github-critical)
+![Issues](https://img.shields.io/github/issues/MayhemStudios/MayhemRimsPack?style=for-the-badge&logo=github-critical)
 
 Table of Information
 | Name of Link | Location of Link|
